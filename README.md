@@ -1,4 +1,4 @@
-# Hi there, I'm Elie Makoda 👋
+# Hi there, I'm Elie Makoda Kowo 👋
 
 I'm a passionate data scientist and developer with a diverse skill set and a keen interest in web technologies, machine learning, and data analytics. I love to build innovative solutions and contribute to projects that make a difference.
 
@@ -27,12 +27,10 @@ I'm a passionate data scientist and developer with a diverse skill set and a kee
 
 ## 🌐 Portfolio
 
-Check out my portfolio: [https://portfoliokowo.vercel.app/](https://portfoliokowo.vercel.app/)
+Check out my portfolio: [https://portfoliokowo.vercel.app/](portfolio Kowo Elie)
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/eliemakoda)
-- [Twitter](https://twitter.com/eliemakoda)
 - [GitHub](https://github.com/eliemakoda)
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech.
