@@ -30,7 +30,8 @@ I'm a passionate data scientist and developer with a diverse skill set and a kee
 Check out my portfolio: [https://portfoliokowo.vercel.app/]([portfolio Kowo Elie](https://portfoliokowo.vercel.app/)
 
 ## 📫 Connect with Me
-
 - [GitHub](https://github.com/eliemakoda)
+- [HUGGINGFACE](https://huggingface.co/ElieMark)
+
 
 Thank you for visiting my profile! Feel free to reach out if you want to collaborate or just chat about tech.
