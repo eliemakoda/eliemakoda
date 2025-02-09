@@ -27,7 +27,7 @@ I'm a passionate data scientist and developer with a diverse skill set and a kee
 
 ## 🌐 Portfolio
 
-Check out my portfolio: [https://portfoliokowo.vercel.app/](portfolio Kowo Elie)
+Check out my portfolio: [https://portfoliokowo.vercel.app/]([portfolio Kowo Elie](https://portfoliokowo.vercel.app/)
 
 ## 📫 Connect with Me
 
