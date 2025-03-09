@@ -27,7 +27,7 @@ I'm a passionate data scientist and developer with a diverse skill set and a kee
 
 ## 🌐 Portfolio
 
-Check out my portfolio: [[[https://portfoliokowo.vercel.app](https://eliemakodakowo.vercel.app/)](https://eliemakodakowo.vercel.app/)/] 
+Check out my portfolio: [[[https://portfoliokowo.vercel.app](https://eliemakodakowo.vercel.app/)]
 
 ## 📫 Connect with Me
 - [GitHub](https://github.com/eliemakoda)
