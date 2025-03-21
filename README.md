@@ -14,9 +14,9 @@ I'm a passionate data scientist and developer with a diverse skill set and a kee
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript (MERN, Next.js), PHP, SQL, Python
-- **Frameworks & Libraries:** React, Node.js, Express, Tailwind CSS, TensorFlow, scikit-learn
-- **Databases:** MongoDB, PostgreSQL
+- **Languages:** JavaScript (MERN, Next.js), PHP, SQL, Python 
+- **Frameworks & Libraries:** React, Node.js, Express, Tailwind CSS, TensorFlow, scikit-learn , React Native
+- **Databases:** Sql , NoSql
 - **Data Science & Analytics:** Machine Learning, Deep Learning, TensorFlow, scikit-learn, Power BI, Excel
 - **Tools & Platforms:** Git, Docker, Kubernetes, AWS, Netlify, Vercel
 
