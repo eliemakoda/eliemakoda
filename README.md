@@ -6,7 +6,7 @@ I transform raw data into actionable insights and build scalable applications th
 
 🔹 **Currently available for freelance projects** (Remote Worldwide | On-site in Cameroon)  
 🔹 **Willing to relocate** for exciting opportunities  
-
+🔹 **Check My portfolio** for more informations      https://eliemakodakowo.vercel.app/
 ---
 
 ## 📬 Contact Me
