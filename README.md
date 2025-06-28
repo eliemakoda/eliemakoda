@@ -4,7 +4,7 @@
 
 I transform raw data into actionable insights and build scalable applications that bridge the gap between AI and end-users. With expertise spanning **machine learning, cloud deployment, and full-stack development**, I help businesses leverage technology to solve complex problems. I also **train and lead computer science teams** for hackathons and tech projects.
 
-🔹 **Currently available for freelance projects** (Remote Worldwide | On-site in Cameroon)  
+🔹 **Currently available for freelance projects** (Remote Worldwide | On-site)  
 🔹 **Willing to relocate** for exciting opportunities  
 🔹 **Check My portfolio** for more informations      https://eliemakodakowo.vercel.app/
 ---
