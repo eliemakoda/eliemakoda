@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Elie Makoda Kowo 
 
-**Freelance Data Scientist | Full-Stack Developer (Web & Mobile) | AI & Big Data Specialist | Trainer & Team Leader **
+**Freelance Data Scientist | Full-Stack Developer (Web & Mobile) | AI & Big Data Specialist |IT Consultant for organizations| Trainer & Team Leader **
 
 I transform raw data into actionable insights and build scalable applications that bridge the gap between AI and end-users. With expertise spanning **machine learning, cloud deployment, and full-stack development**, I help businesses leverage technology to solve complex problems. I also **train and lead computer science teams** for hackathons and tech projects.
 
