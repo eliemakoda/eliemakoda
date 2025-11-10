@@ -44,6 +44,7 @@ I transform raw data into actionable insights and build scalable applications th
 - **Hackathon Team Lead:** Guide computer science teams through competition challenges  
 - **Technical Trainer:** Conduct workshops on AI/ML, full-stack development, and data engineering  
 - **Project Mentor:** Oversee implementation of complex tech solutions  
+- **It Consultant:** helps enterprise choose best tech alternatives to solve their problems ; with an eyes on details... 
 
 ---
 
