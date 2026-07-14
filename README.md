@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hello, I'm Elie Makoda Kowo
-
+Viit my Personal Website: https://eliemakodakowo.com/
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+AI+Engineer;Full-Stack+Developer;Tech+Consultant+%26+Trainer;Building+Tomorrow's+Solutions" alt="Typing SVG" />
 
 **🏢 Founder & CEO at EMAKO TECH**  
